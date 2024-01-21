@@ -1,0 +1,50 @@
+.texty{
+    color: #99A799 !important;
+}
+
+.texty2{
+    color: #316B83 !important;
+}
+
+
+.backy{
+    background-color: #316B83 !important;
+}
+
+.backy2{
+    background-color: #EBD671 !important;
+}
+
+.backy3{
+    background-color: #99A799 !important;
+}
+
+.btn-icony:active,
+.btn-icony:focus,
+.btn-icony:hover{
+	color: gray !important;
+    background-color: transparent !important;
+}
+
+.about_text{
+    margin-top: 13%;
+    font-size: 15px !important;
+  }
+
+.opacy{
+    opacity: 50%;
+}
+
+
+
+
+
+  @media (max-width: 992px){
+
+  .about_text{
+    margin-top: 5% !important;
+    margin-bottom: 5% !important;
+    font-size: 15px !important;
+  }
+
+}
